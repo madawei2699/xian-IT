@@ -19,7 +19,7 @@
 - HSBC
 - IBM
 - 三星
-- Kikitrade
+- Kikitrade (区块链金融,已A轮) https://www.kikitrade.com/
 
 ### 大厂分部
 
