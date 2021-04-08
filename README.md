@@ -13,7 +13,9 @@
 
 - SAP
 - ThoughtWorks
+- HSBC
 - AWS
+- Kikitrade (区块链金融,已A轮) https://www.kikitrade.com/
 
 ### 大厂分部
 
@@ -22,6 +24,9 @@
 - 阿里云（ob少）
 - 科大讯飞
 - 大疆
+- 京东物流
+- 当当网
+- 海尔U+（IoT）
 
 ### 外包
 
