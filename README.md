@@ -101,6 +101,20 @@
 2020年12月D轮融资，[奇安信集团](#奇安信)领投。
 </details>
 
+## GitHub活跃开发者（西安）
+
+> 筛选标准（能持续参与开源项目开发且具备一定的影响力）：
+> 1. followers > 50 
+> 2. 最近一年有超过一定数量commit
+
+|   |   |   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|---|
+| [@kevinlq](https://github.com/kevinlq) | [@funcwj](https://github.com/funcwj) | [@Neilpang](https://github.com/Neilpang) | [@kaituoxu](https://github.com/kaituoxu) | [@horance-liu](https://github.com/horance-liu) | [@vipstone](https://github.com/vipstone) | [@dreamhead](https://github.com/dreamhead) | [@ameizi](https://github.com/ameizi) | [@yidao620c](https://github.com/yidao620c) | [@greatghoul](https://github.com/greatghoul) |
+| [@Yikun](https://github.com/Yikun) | [@Byron](https://github.com/Byron) | [@gyliu513](https://github.com/gyliu513) | [@simplezhli](https://github.com/simplezhli) | [@zdzhaoyong](https://github.com/zdzhaoyong) | [@xujingzhou](https://github.com/xujingzhou) | [@xdtianyu](https://github.com/xdtianyu) | [@gjy3035](https://github.com/gjy3035)  | [@NLRX-WJC](https://github.com/NLRX-WJC) | [@sinall](https://github.com/sinall) |
+| [@howiehu](https://github.com/howiehu) | [@cdluminate](https://github.com/cdluminate) | [@sy-records](https://github.com/sy-records) | [@fudingcheng](https://github.com/fudingcheng) | [@KDr2](https://github.com/KDr2) | [@chenzhiwei](https://github.com/chenzhiwei) | [@Geek-James](https://github.com/Geek-James) | [@sbwtw](https://github.com/sbwtw) | [@plrthink](https://github.com/plrthink) | [@ZhaoZhibin](https://github.com/ZhaoZhibin) |
+| [@logoove](https://github.com/logoove)  | [@MRNIU](https://github.com/MRNIU) | [@yorzi](https://github.com/yorzi) | [@liyaodong](https://github.com/liyaodong) | [@DLLXW](https://github.com/DLLXW) | [@morvencao](https://github.com/morvencao) | [@polossk](https://github.com/polossk) | [@moocss](https://github.com/moocss) | [@songleo](https://github.com/songleo) | [@kaichaosun](https://github.com/kaichaosun) |
+| [@Soyn](https://github.com/Soyn) | [@hyacinthus](https://github.com/hyacinthus) | [@LeslieZhu](https://github.com/LeslieZhu) | [@Garlandal](https://github.com/Garlandal) | [@yuanshenjian](https://github.com/yuanshenjian) | [@kikyous](https://github.com/kikyous) | [@TrumanDu](https://github.com/TrumanDu) | [@Qinka](https://github.com/Qinka) | [@guzhongren](https://github.com/guzhongren) | [@madawei2699](https://github.com/madawei2699) |
+
 ## 生活娱乐
 
 ### 房价
