@@ -2,6 +2,14 @@
 
 ![](./welcome.svg)
 
+<details>
+  <summary>加入社群</summary>
+
+加我的个人微信（improve365_cn）拉你进微信群组（需提供GitHub账户ID）：
+
+![](https://img.bmpi.dev/a0ff26e9-23ec-ffee-08b2-22c19c026e8a.png)
+</details>
+
 ## 学习工作
 
 ### 高校
