@@ -87,6 +87,7 @@
 - 佳帮手（电商）
 - 澳鹏（跨境电商）
 - 每日瑜伽（App）
+- 金数据
 
 ### 专业服务公司
 
@@ -99,7 +100,7 @@
 
 > 创业公司风险高，请谨慎看待股权与期权的承诺
 
-- [Kikitrade](https://www.kikitrade.com/) (区块链金融，已A轮) 
+- [Kikitrade](https://www.kikitrade.com/) (区块链金融，已A轮)
 
 <details>
   <summary>小鱼易连西安研发中心</summary>
@@ -134,7 +135,7 @@
 ## GitHub活跃开发者（西安）
 
 > 筛选标准（能持续参与开源项目开发且具备一定的影响力）：
-> 1. followers > 50 
+> 1. followers > 50
 > 2. 最近一年有超过一定数量commit
 
 |   |   |   |   |   |   |   |   |   |   |
