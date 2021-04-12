@@ -101,6 +101,7 @@
 > 创业公司风险高，请谨慎看待股权与期权的承诺
 
 - [Kikitrade](https://www.kikitrade.com/) (区块链金融，已A轮)
+- 黑帕云（创造无代码应用搭建平台，创始人陈金洲也曾创立金数据产品）
 
 <details>
   <summary>小鱼易连西安研发中心</summary>
