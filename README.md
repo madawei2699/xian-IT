@@ -89,6 +89,7 @@ Valar Mogulis，打工皆有失业。上班打工的最大风险是长期失业�
 - **ThoughtWorks**（英企）
 - **SAP**（德企）
 - **Active Network**（美企）
+- Telenav（美企）
 - 三星（韩企）
 - NEC（日企）
 - 葡萄城（日企）
