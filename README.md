@@ -93,6 +93,10 @@ Valar Mogulis，打工皆有失业。上班打工的最大风险是长期失业�
 - 三星（韩企）
 - NEC（日企）
 - 葡萄城（日企）
+- Objectiva（美企）
+- Newegg（美企）
+- LotusFlare（美企）
+- Serko（新西兰）
 
 ### 大厂分部
 
