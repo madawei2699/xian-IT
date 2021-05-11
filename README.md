@@ -83,49 +83,49 @@ Valar Mogulis，打工皆有失业。上班打工的最大风险是长期失业�
 
 > 大部分是965，但是某些项目/部门可能需要加班，且对英语有一定的要求。外企一般都严格遵守劳动法，这意味着在五险一金、假期和福利方面都有保障。
 
-- **IBM**（美企）
-- **RedHat**（美企）
-- **HSBC**（英企）
-- **ThoughtWorks**（英企）
-- **SAP**（德企）
-- **Active Network**（美企）
-- Telenav（美企）
-- 三星（韩企）
-- NEC（日企）
-- 葡萄城（日企）
-- Objectiva（美企）
-- Newegg（美企）
-- LotusFlare（美企）
-- Serko（新西兰）
+- [**IBM**](https://www.ibm.com/cn-zh)（美企）
+- [**RedHat**](https://www.redhat.com/zh)（美企）
+- [**HSBC**](https://www.hsbc.com/)（英企）
+- [**ThoughtWorks**](https://www.thoughtworks.com/zh-cn)（英企）
+- [**SAP**](https://www.sap.cn/index.html)（德企）
+- [**Active Network**](http://www.activenetwork.cn/)（美企）
+- [Telenav](https://www.telenav.com/)（美企）
+- [三星](https://www.samsung.com/cn/)（韩企）
+- [NEC](https://cn.nec.com/)（日企）
+- [葡萄城](https://www.grapecity.com.cn/)（日企）
+- [Objectiva](http://www.redsafi.com/cn/)（美企）
+- [Newegg](https://www.newegg.com/)（美企）
+- [LotusFlare](https://lotusflare.com/)（美企）
+- [Serko](https://www.serko.com/)（新西兰）
 
 ### 大厂分部
 
 > 大厂的薪资在本地属于头部阶段，华为更是天花板的存在。
 
-- **华为**（西研所，社招岗少，OD多）
+- [**华为**](https://www.huawei.com/cn/)（西研所，社招岗少，OD多）
 > 在本地中有着极高的薪资（起薪可能是很多本地公司的天花板，总包区间一般在25-60W），加班强度高。
 > 一个不成文的规定，如果你曾有创业经历，会卡在HR关过不去。
-- **荣耀**
+- [**荣耀**](https://www.hihonor.com/cn/)
 > 刚开始招人，薪资听说比华为高
-- **腾讯云**（内包）
+- [**腾讯云**](https://cloud.tencent.com/)（内包）
 > 薪资介于25-50W之间，加班强度中等
-- 阿里云（招聘岗位少）
-- 科大讯飞
-- OPPO
-- VIVO
-- 大疆DJI
-- 海康威视
-- 360
-- 大华
-- 中兴
-- 京东物流
-- 当当网
-- 趣医网
-- 京颐科技
-- 海尔U+（IoT）
-- 紫光展锐
-- 绿盟
-- 迈瑞医疗（全国医疗龙头）
+- [阿里云](https://cn.aliyun.com/)（招聘岗位少）
+- [科大讯飞](https://www.iflytek.com/index.html)
+- [OPPO](https://www.oppo.com/cn/)
+- [VIVO](https://www.vivo.com.cn/)
+- [大疆DJI](https://www.dji.com/cn)
+- [海康威视](https://www.hikvision.com/cn/)
+- [360](https://www.360.cn/)
+- [大华](https://www.dahuatech.com/)
+- [中兴](https://www.zte.com.cn/china/)
+- [京东物流](https://www.jdl.cn/)
+- [当当网](http://www.dangdang.com/)
+- [趣医网](https://www.quyiyuan.com/)
+- [京颐科技](http://www.kyee.com.cn/)
+- [海尔U+](https://www.haier.com/)（IoT）
+- [紫光展锐](https://www.unisoc.com/#/home/main)
+- [绿盟](https://www.nsfocus.com.cn/)
+- [迈瑞医疗](https://www.mindray.com/cn/index.html)（全国医疗龙头）
 
 ### 国企（研究所/银行等）
 
@@ -140,40 +140,40 @@ Valar Mogulis，打工皆有失业。上班打工的最大风险是长期失业�
 - 西安银行
 - 浦发银行
 - 中国工商银行
-- 大唐移动
-- 烽火
+- [大唐移动](https://www.datangmobile.cn/)
+- [烽火](https://www.fiberhome.com/default.aspx)
 - 中电二十所
 - 电信十所
-- 大唐电信
-- 大唐联诚
+- [大唐电信](http://www.datang.com/)
+- [大唐联诚](http://www.dtlinktech.com/)
 - 中船重工705所
 
 ### 本地优秀企业
 
 > 本地头部IT、互联网公司，不过在薪资和福利方面和上面的公司还是有一定差距。
 
-- **Yeahmobi**（出海企业/互联网广告行业）
-- 诺瓦星云（LED）
-- 西安蜂语（IoT）
-- 佳帮手（电商）
-- 澳鹏（跨境电商）
-- 每日瑜伽（App）
-- 金数据
+- [**Yeahmobi**](https://cn.yeahmobi.com/)（出海企业/互联网广告行业）
+- [诺瓦星云](https://www.novastar-led.cn/)（LED）
+- [西安蜂语](https://ifengyu.com/)（IoT）
+- [佳帮手](https://www.jiabs.com/)（电商）
+- [澳鹏](http://www.orderplus.com/zh/)（跨境电商）
+- [每日瑜伽](https://www.dailyyoga.com.cn/)（App）
+- [金数据](https://jinshuju.net/)
 
 ### 专业服务公司
 
 > 通俗的说就是外包。
 
-- 中软国际（主要有华为和汇丰线）
-- 软通动力（主要有华为线）
-- 佰钧成
+- [中软国际](http://www.chinasofti.com/)（主要有华为和汇丰线）
+- [软通动力](http://www.isoftstone.com/)（主要有华为线）
+- [佰钧成](http://www.bill-jc.com/)
 
 ### 初创公司
 
 > 创业公司风险高，请谨慎看待股权与期权的承诺
 
 - [Kikitrade](https://www.kikitrade.com/) (区块链金融，已A轮)
-- 黑帕云（创造无代码应用搭建平台，创始人陈金洲也曾创立金数据产品）
+- [黑帕云](https://hipacloud.com/)（创造无代码应用搭建平台，创始人陈金洲也曾创立金数据产品）
 
 <details>
   <summary>小鱼易连西安研发中心</summary>
