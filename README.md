@@ -160,6 +160,7 @@ Valar Mogulis，打工皆有失业。上班打工的最大风险是长期失业�
 - [澳鹏](http://www.orderplus.com/zh/)（跨境电商）
 - [每日瑜伽](https://www.dailyyoga.com.cn/)（App）
 - [金数据](https://jinshuju.net/)
+- [Wisdom Garden](http://www.wisdomgarden.com/)
 
 ### 专业服务公司
 
@@ -175,6 +176,7 @@ Valar Mogulis，打工皆有失业。上班打工的最大风险是长期失业�
 
 - [Kikitrade](https://www.kikitrade.com/) (区块链金融，已A轮)
 - [黑帕云](https://hipacloud.com/)（创造无代码应用搭建平台，创始人陈金洲也曾创立金数据产品）
+- [庖丁科技](https://paodingai.com/)
 
 <details>
   <summary>小鱼易连西安研发中心</summary>
