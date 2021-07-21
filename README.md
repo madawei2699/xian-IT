@@ -313,6 +313,11 @@ TODO:
 
 TODO:
 
+## 相关文章
+
+- [西安有哪些牛逼的互联网公司？ - 知乎](https://zhuanlan.zhihu.com/p/385497890)
+- [西安有哪些比较酷的互联网公司？ - 知乎](https://www.zhihu.com/question/19665869)
+
 ## 参与项目
 
 欢迎任何 `PR` or `issue`
