@@ -101,7 +101,6 @@ Valar Mogulis，打工皆有失业。上班打工的最大风险是长期失业�
 - [LotusFlare](https://lotusflare.com/)（美企）
 - [Serko](https://www.serko.com/)（新西兰）
 - [ESSEX](https://essexlg.com/)(美企)
-- [NEXT Trucking](https://www.nexttrucking.com/)（美企）
 
 ### 大厂分部
 
